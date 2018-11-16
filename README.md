@@ -9,7 +9,7 @@ a <------ n - 0
 
 max = n
 
-if max < 0 (maka kembali ke <----- a)
+if a!=0 (jika a bukan samadenagn 0 maka kembali ke <----- a)
 
 cetak max
 
