@@ -2,6 +2,7 @@
 
 Ilustrasi
 Latihan 1
+
 a <------ n - 0
 max = n
 if max < 0 (maka kembali ke <----- a)
