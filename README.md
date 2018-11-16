@@ -11,6 +11,8 @@ if max < 0 (maka kembali ke <----- a)
 
 cetak max
 
+https://github.com/fauziakbar101/Praktikum5/blob/master/Latihan1/SS%20latihan%201.jpg
+
 Ilustrasi
 
 Latihan 2
