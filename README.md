@@ -27,7 +27,11 @@ if T <------ b+c || a+c || a+b
 Cetak "Salah"
 
 a <----- 3
+
 b <----- 3
+
 c <----- 6
+
 if T <----- b+c || a+c || a+b
+
 Cetak "Benar"
